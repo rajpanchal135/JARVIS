@@ -1,0 +1,43 @@
+# Virtual Environment
+/envjarvis/
+envjarvis/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Environment Variables (NEVER commit these!)
+.env
+.env.local
+.env.production
+
+# Database files
+*.db
+
+# Temporary speech files
+temp_speech_*.mp3
+
+# Screenshots and camera captures
+screenshot_*.png
+camera_capture_*.png
+
+# Dev/debug data files
+out.json
+models.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Face recognition training data
+engine/auth/samples/*.jpg
+engine/auth/trainer/*.yml

@@ -1,0 +1,6 @@
+@echo off
+echo Activating Virtual Environment...
+call envjarvis\Scripts\activate.bat
+echo Starting JARVIS...
+python run.py
+pause
