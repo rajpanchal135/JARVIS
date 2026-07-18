@@ -2,6 +2,8 @@
 
 # 🤖 JARVIS — AI-Powered Desktop Assistant
 
+LIVE DEMO : https://jarvis-b51s93g7r-raj-pithavas-projects.vercel.app/
+
 **A voice-controlled, AI-powered desktop assistant built with Python, Eel, and Google Gemini.**
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
